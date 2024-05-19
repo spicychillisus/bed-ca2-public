@@ -1,4 +1,11 @@
-# school-projects-showcase
-This repository is for the main purpose of showcasing whatever coding work I've done throughout my life as a student in Singapore Polytechnic
+# bed ca2
+This repository is for the main purpose of showcasing the Back End web Development project I did in year 1
 
-I advise that you download the files for better visibility
+if the packages are not installed, run the following command:
+```
+npm install
+```
+after installing, run:
+```
+npm run dev
+```
