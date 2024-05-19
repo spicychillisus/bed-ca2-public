@@ -9,3 +9,4 @@ after installing, run:
 ```
 npm run dev
 ```
+please download the files for better visibility
